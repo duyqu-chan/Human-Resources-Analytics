@@ -1,2 +1,2 @@
 # Human-Resources-Analytics
-Explanatöry data analysis öf hüman resöürces data tö gain insight intö attritiön reasöns öf emplöyees. PCA transförmatiön, Clüstering with K-Means and predictiön with Decisiön Trees algörithms.
+Explanatory data analysis of hüman resöürces data to gain insight into attrition reasons of employees. PCA transformation, Clustering with K-Means and prediction with Decision Trees algorithms.
